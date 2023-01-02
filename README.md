@@ -1,5 +1,5 @@
   <h1 align="center">
-  Hi there! I'm Orçun 👋
+  Hi there! I'm Orçun <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
   </h1>
 
   <h2 align="center"> Contact </h2>
